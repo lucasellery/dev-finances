@@ -212,6 +212,10 @@ td.expense {
   color: var(--red);
 }
 
+img {
+  cursor: pointer;  
+}
+
 /* MODAL */
 
 .modal-overlay {
